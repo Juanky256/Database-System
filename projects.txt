@@ -1,0 +1,11 @@
+10
+1#Titan#3#$200,000
+2#Project Hanks#1#$400,000
+3#Kodiak#2#$100,000
+4#Code Talkers#3#$700,000
+5#Project Blue Book#2#$500,000
+6#X Lab#2#$300,000
+7#Project 404#5#$1,000,000
+8#Manhattan Project#1#$250,000
+9#Durango#2#$600,000
+10#Apollo#2#$750,000
